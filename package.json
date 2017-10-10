@@ -1,0 +1,19 @@
+{
+  "name": "wolf_rgg",
+  "version": "1.0.0",
+  "description": "Mi primer web app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rivert97/wolf_rgg.git"
+  },
+  "author": "rivert",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rivert97/wolf_rgg/issues"
+  },
+  "homepage": "https://github.com/Rivert97/wolf_rgg#readme"
+}
