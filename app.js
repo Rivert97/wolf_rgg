@@ -1,6 +1,16 @@
-console.log('Hola mundo!', 'Wuuuu');
+// console.log('Hola mundo!', 'Wuuuu');
 
-var nombre = "Roberto";
-var nick = "Rivert";
+// var nombre = "Roberto";
+// var nick = "Rivert";
 
-console.log(nombre, 'es', nick);
+// console.log(nombre, 'es', nick);
+var express = require('express');
+var app = express();
+
+app.get('/', function (req, res) {
+  res.send('Hello World!');
+});
+
+app.listen(3000, function () {
+  console.log('Example app listening on port 3000!');
+});
