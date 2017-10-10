@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Rivert97/wolf_rgg/issues"
   },
-  "homepage": "https://github.com/Rivert97/wolf_rgg#readme"
+  "homepage": "https://github.com/Rivert97/wolf_rgg#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
